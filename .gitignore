@@ -1,0 +1,11 @@
+// excluding files that come with python virtualenv and visual studio code
+.vscode
+bin
+include
+lib
+lizard_ext
+share
+tmp
+
+//some other files also excluded
+tympass.json
